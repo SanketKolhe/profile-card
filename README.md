@@ -20,6 +20,10 @@ A customizable repository for creating responsive and visually appealing user pr
 3. **Customization**: Modify the HTML, and CSS files as needed.
 4. **Integration**: Add the profile cards to your web application by linking the necessary files.
 
+## Demo
+
+Chech out the live demo https://sanketkolhe.github.io/profile-card/
+
 ## Contributions
 
 We welcome contributions! Please submit a pull request or open an issue for any suggestions or improvements.
