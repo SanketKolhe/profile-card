@@ -37,7 +37,7 @@ body {
     height: 36%;
     width: 100%;
     border-radius: 24px 24px 0 0;
-    background-color: #4070f4;
+    background-color: #133C55;
 }
 
 /* Profile Image */
@@ -46,7 +46,7 @@ body {
     height: 150px;
     width: 150px;
     border-radius: 50%;
-    background-color: #4070fd;
+    background-color: #59A5D8;
     padding: 3px;
     margin-bottom: 10px;
 }
@@ -93,7 +93,7 @@ body {
     width: 34px;
     border-radius: 50%;
     margin: 0 8px;
-    background-color: #4070f4;
+    /* background-color: #386FA4; */
     text-decoration: none;
 }
 
@@ -112,13 +112,13 @@ body {
     border-radius: 24px;
     padding: 8px 24px;
     margin: 0 10px;
-    background-color: #4070f4;
+    background-color: #386FA4;
     cursor: pointer;
     transition: all 0.3s ease;
 }
 
 .action-button button:hover {
-    background-color: #0e4bf1;
+    background-color: #225687;
 }
 
 .card .post-action {
